@@ -1,0 +1,1 @@
+// write a programs that throws an exception for negative input in square root function
