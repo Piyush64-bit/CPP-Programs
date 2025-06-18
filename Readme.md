@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🚀 C++ Learning Playground
 
 Welcome to the **C++ Learning Playground**!  
