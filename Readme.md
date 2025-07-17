@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🚀 C++ Learning Playground
 > *Master C++ from fundamentals to advanced concepts with hands-on examples and real-world projects*
 
